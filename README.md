@@ -37,10 +37,10 @@ Modify the initial parameters in the script to observe different behaviors of th
 ## Example
 The following parameters can be modified in the simulation.py file:
 
-Masses: Define the masses of the oscillators.
-Initial Positions: Set the initial coordinates of each oscillator.
-Initial Velocities: Assign initial velocities to the oscillators.
-Connection Constants: Specify the constants that dictate the strength of connections between the oscillators.
+- Masses: Define the masses of the oscillators.
+- Initial Positions: Set the initial coordinates of each oscillator.
+- Initial Velocities: Assign initial velocities to the oscillators.
+- Connection Constants: Specify the constants that dictate the strength of connections between the oscillators.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or want to add new features, please fork the repository and create a pull request.
