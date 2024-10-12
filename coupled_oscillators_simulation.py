@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Oct 12 11:47:25 2024
-
 @author: Manuel Martini
 """
 
